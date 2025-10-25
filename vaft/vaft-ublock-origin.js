@@ -19,7 +19,7 @@ twitch-videoad.js text/javascript
         scope.ClientSession = 'null';
         scope.PlayerType2 = 'embed'; //Source
         scope.PlayerType3 = 'site'; //Source
-        scope.PlayerType4 = 'autoplay'; //360p
+        scope.PlayerType4 = 'site'; //360p
         scope.CurrentChannelName = null;
         scope.UsherParams = null;
         scope.WasShowingAd = false;
